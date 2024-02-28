@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="App.Splash.theme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#92D196</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/lemon_squeeze</item>
+        <item name="postSplashScreenTheme">@style/Theme.Lemonade</item>
+        <item name="splashScreenIconSize">50dp</item>
+    </style>
+
+    
+</resources>
